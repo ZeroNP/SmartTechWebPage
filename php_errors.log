@@ -1,0 +1,92 @@
+[04-Jul-2020 14:55:08 Asia/Calcutta] PHP Warning:  fopen(/home/zeronp/Downloads/secret_key.txt): failed to open stream: Permission denied in /var/www/html/ST/createfile.php on line 34
+[04-Jul-2020 15:33:46 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 112
+[04-Jul-2020 15:37:31 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 112
+[04-Jul-2020 15:41:25 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 74
+[04-Jul-2020 17:02:26 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:02:27 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 80
+[04-Jul-2020 17:02:50 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:02:51 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 80
+[04-Jul-2020 17:03:04 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:03:04 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 80
+[04-Jul-2020 17:16:25 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:16:25 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:17:03 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:17:04 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:17:49 Asia/Calcutta] PHP Notice:  Undefined variable: firstname in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:18:19 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:19:08 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:22:12 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:22:35 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:22:58 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:23:06 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:23:31 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:24:00 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:24:00 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:26:59 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:27:01 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:27:16 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:27:17 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:27:22 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:27:23 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:27:56 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:27:57 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:29:32 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:29:32 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /var/www/html/ST/createfile.php on line 80
+[04-Jul-2020 17:29:34 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:29:59 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:30:00 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:30:11 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:30:12 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:30:19 Asia/Calcutta] PHP Notice:  Undefined index: addr in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:30:20 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:31:04 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 89
+[04-Jul-2020 17:34:02 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 90
+[04-Jul-2020 17:37:20 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 90
+[04-Jul-2020 17:38:05 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 90
+[04-Jul-2020 17:38:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/ST/createfile.php:88) in /var/www/html/ST/createfile.php on line 104
+[04-Jul-2020 17:38:29 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 90
+[04-Jul-2020 17:38:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/ST/createfile.php:88) in /var/www/html/ST/createfile.php on line 104
+[04-Jul-2020 17:42:44 Asia/Calcutta] PHP Notice:  Undefined variable: isset in /var/www/html/ST/createfile.php on line 117
+[04-Jul-2020 17:42:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/ST/createfile.php:117
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/ST/createfile.php on line 117
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: firstname in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: lastname in /var/www/html/ST/createfile.php on line 11
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: address in /var/www/html/ST/createfile.php on line 12
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: village in /var/www/html/ST/createfile.php on line 13
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: city in /var/www/html/ST/createfile.php on line 14
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: taluka in /var/www/html/ST/createfile.php on line 15
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: district in /var/www/html/ST/createfile.php on line 16
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: state in /var/www/html/ST/createfile.php on line 17
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: jurisdiction in /var/www/html/ST/createfile.php on line 18
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: email in /var/www/html/ST/createfile.php on line 19
+[04-Jul-2020 17:42:57 Asia/Calcutta] PHP Notice:  Undefined index: contact in /var/www/html/ST/createfile.php on line 20
+[04-Jul-2020 17:42:58 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: firstname in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: lastname in /var/www/html/ST/createfile.php on line 11
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: address in /var/www/html/ST/createfile.php on line 12
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: village in /var/www/html/ST/createfile.php on line 13
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: city in /var/www/html/ST/createfile.php on line 14
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: taluka in /var/www/html/ST/createfile.php on line 15
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: district in /var/www/html/ST/createfile.php on line 16
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: state in /var/www/html/ST/createfile.php on line 17
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: jurisdiction in /var/www/html/ST/createfile.php on line 18
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: email in /var/www/html/ST/createfile.php on line 19
+[04-Jul-2020 17:44:18 Asia/Calcutta] PHP Notice:  Undefined index: contact in /var/www/html/ST/createfile.php on line 20
+[04-Jul-2020 17:44:19 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: firstname in /var/www/html/ST/createfile.php on line 10
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: lastname in /var/www/html/ST/createfile.php on line 11
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: address in /var/www/html/ST/createfile.php on line 12
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: village in /var/www/html/ST/createfile.php on line 13
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: city in /var/www/html/ST/createfile.php on line 14
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: taluka in /var/www/html/ST/createfile.php on line 15
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: district in /var/www/html/ST/createfile.php on line 16
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: state in /var/www/html/ST/createfile.php on line 17
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: jurisdiction in /var/www/html/ST/createfile.php on line 18
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: email in /var/www/html/ST/createfile.php on line 19
+[04-Jul-2020 17:44:55 Asia/Calcutta] PHP Notice:  Undefined index: contact in /var/www/html/ST/createfile.php on line 20
+[04-Jul-2020 17:44:56 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
+[04-Jul-2020 17:47:41 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
+[04-Jul-2020 17:48:05 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
+[04-Jul-2020 17:51:22 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /var/www/html/ST/createfile.php on line 91
