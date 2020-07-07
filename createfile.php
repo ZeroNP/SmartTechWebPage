@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 if(isset($_POST['Download'])){
     $servername = "localhost";
@@ -18,6 +18,7 @@ if(isset($_POST['Download'])){
     $jurisdiction = htmlentities($_POST['jurisdiction']);
     $email = htmlentities($_POST['email']);
     $contact = htmlentities($_POST['contact']);
+    $password = htmlentities($_POST['password']);
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
     // Check connection
@@ -114,7 +115,7 @@ function createZip($files = array(), $destination = '', $overwrite = false) {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" integrity="sha384-1CmrxMRARb6aLqgBO7yyAxTOQE2AKb9GfXnEo760AUcUmFx3ibVJJAzGytlQcNXd" crossorigin="anonymous"></script>
-
+   
 </head>
 <body>
     <form action="createfile.php" method="post">
@@ -123,6 +124,33 @@ function createZip($files = array(), $destination = '', $overwrite = false) {
             <?php endforeach; ?>
             <input type="hidden" name="Download" value="ready" />
             <button class="btn btn-primary">Download</button>
-            </form>
+   </form>
+     <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+     <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-app.js"></script>
+    <!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-analytics.js"></script>
+  <!-- Add Firebase products that you want to use -->
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-firestore.js"></script>
+
+   <script>
+      (function() {
+         const config = {
+            apiKey: "AIzaSyBbTjyRTmD9BiQUzgpxZDkKEr5zfXeEFLo",
+            projectNumber: "926180309587",
+    firebaseUrl: "https://projectgdsync-277709.firebaseio.com",
+    projectId: "projectgdsync-277709",
+    storageBucket: "projectgdsync-277709.appspot.com"
+         }
+         firebase.initializeApp(config);
+         const email = '<?=$_POST['email']?>';
+         const password = '<?=$_POST['password']?>';
+         const auth = firebase.auth();
+         const promise = auth.createUserWithEmailAndPassword(email, password);
+         promise.then(console.log('Registered'));
+         promise.catch(e=>{console.log(e.message)});
+         
+      }());
+   </script>
 </body>
 </html>
